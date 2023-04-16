@@ -46,9 +46,9 @@ td {
   top: 50vh;
   box-shadow: 0px 0px 5px;
 }
-/* #Navbar>ul>li{
-    color: #d6dee9;
-} */
+#Navbar>ul{
+    list-style-type: none;
+}
 #Navbar > ul > li > a {
   color: #d6dee9;
   text-decoration: none;
