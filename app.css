@@ -3,6 +3,9 @@
   padding: 0px;
   font-family: monospace;
 }
+body{
+    background-color: whitesmoke;
+}
 h1 {
   text-align: center;
   margin: 10px;
